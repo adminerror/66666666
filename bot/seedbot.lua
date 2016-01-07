@@ -332,7 +332,9 @@ will return group ban list
 
 *Only owner can use res,setowner,promote,demote and log commands
 
-*tanks for seed team and @Xx_ADMIN_DARKNESS_TM_xX]]
+*tanks for seed team and @Xx_ADMIN_DARKNESS_TM_xX
+
+]]
 
   }
   serialize_to_file(config, './data/config.lua')
