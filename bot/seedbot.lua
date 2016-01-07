@@ -224,8 +224,8 @@ function create_config( )
     disabled_channels = {},
     realm = {89481501},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[tnx for seed team
-    and @Xx_ADMIN_DARKNESS_TM_xX]],
+    about_text = [tnx for seed team
+    and @Xx_ADMIN_DARKNESS_TM_xX],
     help_text = [[
 Commands list :
 
